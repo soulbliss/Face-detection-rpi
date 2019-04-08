@@ -5,17 +5,17 @@ A group project for our robotics lab, 6th Semester, Jan-April, 19
 
 
 
- PROJECT STRUCTURE
+**PROJECT STRUCTURE**
 
  
 
-RPI
+**RPI**
 
 -  	Figure out ip address
 - ​	The commands for transferring files from rpi to laptop
-    
+  
 
-CODING
+**CODING**
 
 - ​	Face trainer
 
@@ -29,16 +29,14 @@ CODING
 
 -  	Grey-scale --> crop --> 	re-scale --> train --> save
 
-
-DEBUGGING
+**DEBUGGING**
 
 -  	Opencv dependencies problems
 -  	Rpi environment replicate on 	rpi
 -  	Overcome build dlib problems
 -  	Emulate environment on rpi
-    
 
-TWEAKING ( PERFORMANCE)
+**TWEAKING ( PERFORMANCE)**
 
 -  	Reduce resolution size to increase speed
 -  	Improve dataset
